@@ -1,4 +1,4 @@
-#REAL-TIME-CHAT-APPLICATION
+REAL-TIME-CHAT-APPLICATION
 
 COMPANY : CODTECH IT SOLUTIONS PRIVATE LIMITED
 
@@ -13,23 +13,23 @@ DURATION : 4 WEEKS
 MENTOR : NEELA SANTOSH
 
 About the Project:-
-#Real-Time Chat Application 
+Real-Time Chat Application 
 
-# NexChat 💬  
+NexChat 💬  
 NexChat is a full-stack real-time chat application built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). It enables seamless one-to-one and group communication with instant message delivery, typing indicators, and real-time notifications powered by Socket.IO.
 Designed with scalability and performance in mind, NexChat simulates modern messaging platforms such as WhatsApp and Slack while providing hands-on experience in building production-style full-stack applications.
 
 
 ## Features
 
-✅ Secure User Authentication (JWT)  
-✅ One-to-One Messaging  
-✅ Group Chat with Admin Controls  
-✅ Real-Time Messaging using Socket.IO  
-✅ Live Typing Indicator  
-✅ Instant Notifications  
-✅ Persistent Chat History  
-✅ Responsive UI with Chakra UI  
+1.Secure User Authentication (JWT)  
+2.One-to-One Messaging  
+3.Group Chat with Admin Controls  
+4.Real-Time Messaging using Socket.IO  
+5.Live Typing Indicator  
+6.Instant Notifications  
+7.Persistent Chat History  
+8.Responsive UI with Chakra UI  
 
 
 ## Tech Stack
