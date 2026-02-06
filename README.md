@@ -15,7 +15,7 @@ MENTOR : NEELA SANTOSH
 About the Project:-
 #Real-Time Chat Application 
 
-#NexChat 💬  
+# NexChat 💬  
 NexChat is a full-stack real-time chat application built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). It enables seamless one-to-one and group communication with instant message delivery, typing indicators, and real-time notifications powered by Socket.IO.
 Designed with scalability and performance in mind, NexChat simulates modern messaging platforms such as WhatsApp and Slack while providing hands-on experience in building production-style full-stack applications.
 
@@ -91,4 +91,7 @@ npm install
 npm start
 
 #OUTPUT
+<img width="1919" height="1011" alt="Image" src="https://github.com/user-attachments/assets/0bd1a366-b5c2-47e1-8a19-cf8dce97e31c" />
+<img width="1916" height="1008" alt="Image" src="https://github.com/user-attachments/assets/b3fffaca-79d6-43be-bc4c-88238b7a05a4" />
+<img width="1919" height="1025" alt="Image" src="https://github.com/user-attachments/assets/d26bb7f8-031a-4535-b5a7-9afb1a10e785" />
 
